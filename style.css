@@ -66,3 +66,35 @@ button {
     width: 300px;
     background-color: gray;
 }
+
+.information {
+    height: 300px;
+}
+
+.info-content {
+    text-align: center;
+}
+
+.title {
+    padding: 24px;
+    margin-bottom: 52px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+}
+
+.info-content {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+}
+
+.item {
+    width: 200px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
